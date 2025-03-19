@@ -27,7 +27,10 @@ I am fascinated about uncovering insights.
 ## 📈 GitHub Stats
 
 ![Gowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gowtham-04P&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Gowtham-04Pe&hide=TeX&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gowtham-04P&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Gowtham-04P&theme=react-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham-04P&layout=compact&theme=radical)
+
 
 
 *Thank you for visiting my profile!*
