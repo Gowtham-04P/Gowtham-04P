@@ -49,9 +49,6 @@ I am fascinated by uncovering insights and making data-driven decisions.
 
 ---
 
-## 🐍 Contribution Graph  
-![Snake animation](https://github.com/Gowtham-04P/Gowtham-04P/blob/output/github-contribution-grid-snake.svg)  
-
 ---
 
 ## 🎯 Thank You for Visiting!  
