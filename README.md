@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Gowtham
 
-***MBA (Business analytics) student*** @ RVS IMSR
+***MBA (Business analytics) student*** @ RVS School of management studies
 <img align="right" width="470" height="230" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*mY7-_HseAw99fBS9Cb3tSw.gif">  
 
 ## About Me
@@ -26,7 +26,7 @@ I am fascinated about uncovering insights.
 
 ## 📈 GitHub Stats
 
-![Gowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gowtham-04Pshow_icons=true&theme=radical)
+![Gowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gowtham-04P&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Gowtham-04Pe&hide=TeX&layout=compact)
 
 
