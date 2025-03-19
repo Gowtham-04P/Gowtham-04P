@@ -2,6 +2,7 @@
 
 ***MBA (Business analytics) student*** @ RVS School of management studies
 <img align="right" width="470" height="230" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*mY7-_HseAw99fBS9Cb3tSw.gif">  
+![Snake animation](https://github.com/Gowtham-04P/Gowtham-04P/blob/output/github-contribution-grid-snake.svg)
 
 ## About Me
 
@@ -16,13 +17,19 @@ I am fascinated about uncovering insights.
 
 
 ## 🔧 Technologies & Tools
-
+![Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-333333?style=for-the-badge&logo=PowerBI)
+![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+![Statistics](https://img.shields.io/badge/-Statistics-006699?style=for-the-badge)  
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=for-the-badge)  
 ![Pandas](https://img.shields.io/badge/Pandas-333333?style=for-the-badge&logo=Pandas)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--learn-333333?style=for-the-badge&logo=Scikit-learn)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-333333?style=for-the-badge&logo=BeautifulSoup)
 ![Scrapy](https://img.shields.io/badge/Scrapy-333333?style=for-the-badge&logo=Scrapy)
+
 
 ## 📈 GitHub Stats
 
