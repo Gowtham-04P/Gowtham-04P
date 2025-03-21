@@ -12,7 +12,7 @@ I am fascinated by uncovering insights and making data-driven decisions.
 
 - 🌱 Currently learning **Data Science**  
 - 👯 Looking to collaborate on **ML/AI projects**  
-- 🎯 Seeking a **placement in Analytics**  
+- 🎯 Seeking a **placement in Data Analytics / Data Engineer**  
 - 📫 Connect with me on:  
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gowtham-p-62b929292/)  
 - 😄 Pronouns: **Business Analyst**  
